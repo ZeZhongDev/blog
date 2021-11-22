@@ -3,7 +3,8 @@
 ## HTML是谁发明的？
 > HTML 的全名是“超文本标记语言”（HyperText Markup Language），上个世纪90年代由欧洲核子研究中心的物理学家蒂姆·伯纳斯-李（Tim Berners-Lee）发明。
 它的最大特点就是支持超链接，点击链接就可以跳转到其他网页，从而构成了整个互联网。
-> 引用自[网道HTML-1.1]（https://wangdoc.com/html/intro.html）
+
+引用自 [网道HTML-1.1]（https://wangdoc.com/html/intro.html）
 
 正是因为伟大的李爵士，人类开始了网上冲浪的历史，前端工程师们开始有饭吃。
 ![利爵士帅照](http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQi-4GrRiraxgytp4QE_LvAVI3etbINALVH_8LfqWCCeAou6h_vb5-VvOme1kAY)
