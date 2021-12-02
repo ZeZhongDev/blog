@@ -1,5 +1,3 @@
-# 浅析URL
-
 ## URL 包含哪几部分，每部分分别有什么作用
 
 URL = 协议 + 域名/IP + 端口号 + 路径 + 查询字符串 + 锚点
@@ -21,6 +19,8 @@ zh-CN/docs/Learn/Common_questions/What_is_a_URL：是当前HTML存放在服务�
 ?key1=value1&key2=value2是提供查询字符串用的。
 
 #自主学习：相当于在页面内部加标签，实现跳转，本质上没有发送任何请求，都是在本地客户端进行的操作。
+
+
 
 ## DNS 的作用是什么，nslookup 命令怎么用
 
@@ -62,6 +62,8 @@ ping 选项
 ```
 
 [ping详细用法的博文](https://www.cnblogs.com/machangwei-8/p/10352808.html)
+
+
 
 ## 域名是什么，分别哪几类域名
 
